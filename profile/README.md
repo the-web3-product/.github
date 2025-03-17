@@ -12,7 +12,6 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 * Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
 * WeChat ID: LGZAXE
 * the web3 官网：https://thewebthree.xyz/
-* the web3 技术服务网站：https://web.thewebthree.xyz/
 
 ## 比特币华语社区
 
